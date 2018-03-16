@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer>
+  <Customer>
+    <CustomerName>ayse</CustomerName>
+    <CustomerPassword>1</CustomerPassword>
+    <CustomerLastName>ilkay</CustomerLastName>
+    <CustomerEmail>aayse@gmail.com</CustomerEmail>
+    <CustomerPhoneNumber>6156</CustomerPhoneNumber>
+    <CustomerSepet>selenkitap</CustomerSepet>
+  </Customer>
+  <Customer>
+    <CustomerName>selen</CustomerName>
+    <CustomerPassword>2</CustomerPassword>
+    <CustomerLastName>coban</CustomerLastName>
+    <CustomerEmail>elfslncbn@gmail.com</CustomerEmail>
+    <CustomerPhoneNumber>1652</CustomerPhoneNumber>
+    <CustomerSepet>selenkitap</CustomerSepet>
+  </Customer>
+  <Customer>
+    <CustomerName>1</CustomerName>
+    <CustomerLastName>t</CustomerLastName>
+    <CustomerEmail>t</CustomerEmail>
+    <CustomerPhoneNumber>1</CustomerPhoneNumber>
+    <CustomerPassword>1</CustomerPassword>
+  </Customer>
+  <Customer>
+    <CustomerName>Tugce</CustomerName>
+    <CustomerLastName>Ozgen</CustomerLastName>
+    <CustomerEmail>tozgen96@gmail.com</CustomerEmail>
+    <CustomerPhoneNumber>123456</CustomerPhoneNumber>
+    <CustomerPassword>1</CustomerPassword>
+  </Customer>
+
+</ArrayOfCustomer>
